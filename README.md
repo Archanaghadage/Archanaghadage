@@ -1,45 +1,74 @@
-<h1 align="center">Hi 👋, I'm Archana</h1>
+<h1 align="center">Hi 👋, I'm Archana Ghadage</h1>
+<h3 align="center">Java | Full-Stack Developer</h3>
 
 <p align="center">
-  💻 Java Full Stack Developer | 🤖 AI Enthusiast | 📊 ML Explorer
+  <img src="https://komarev.com/ghpvc/?username=Archanaghadage&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
-## 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+## 👩‍💻 About Me
+
+🎓 Computer Engineering Student passionate about *Full-Stack Development, AI, Machine Learning, and Modern Web Technologies*.
+
+🌱 Currently building projects in *Spring Boot, React, Java, MySQL, Hibernate*.
+
+💡 Actively improving *DSA, OS, DBMS, CN* for placements.
+
+✨ Curious about *AI-powered systems* & real-world problem solving.
 
 ---
 
-## 🤖 Machine Learning & Generative AI
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blueviolet?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+## 🛠 Tech Stack
 
----
+### *Programming Languages*
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 
-## ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+### *Web Development*
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
+
+### *Databases*
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge)
+
+### *AI / ML*
+![ML](https://img.shields.io/badge/Machine%20Learning-purple?style=for-the-badge)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+![Scikit](https://img.shields.io/badge/Scikit--Learn-f7931e?style=for-the-badge)
+
+### *Tools*
+![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Archana's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SakshiChavan&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshiChavan&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 - 📧 Email: yourmail@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌐 Portfolio: https://yourportfolio.com  
+- 🌍 Portfolio: https://your-portfolio-link.com  
 
 ---
 
-⭐ *"Relax and discover the world of opportunities."*
+⭐ "Relax and discover the world of opportunities."
